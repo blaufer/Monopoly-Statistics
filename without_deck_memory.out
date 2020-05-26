@@ -1,0 +1,85 @@
+     Name                         Total    Percent
+--------------------------------------------------
+  0: Go                          249670    1.7803%
+  1: Mediterranean Ave           251014    1.7899%
+  2: Community Chest             494934    3.5291%
+  3: Baltic Avenue               258991    1.8467%
+  4: Income Tax                  258682    1.8445%
+  5: Reading Railroad            315719    2.2512%
+  6: Oriental Ave                265157    1.8907%
+  7: Chance                      382923    2.7304%
+  8: Vermont Ave                 265502    1.8932%
+  9: Connecticut Ave             260764    1.8594%
+ 10: Jail                        966915    6.8946%
+ 11: St. Charles Pl              305651    2.1794%
+ 12: Electric Company            265864    1.8957%
+ 13: States Ave                  279314    1.9916%
+ 14: Virginia Ave                295947    2.1102%
+ 15: Pennsylvania Railroad       318788    2.2731%
+ 16: St. James Place             344364    2.4555%
+ 17: Community Chest             713396    5.0869%
+ 18: Tennessee Ave               358995    2.5598%
+ 19: New York Ave                351254    2.5046%
+ 20: Free Parking                342949    2.4454%
+ 21: Kentucky Ave                335042    2.3890%
+ 22: Chance                      467845    3.3360%
+ 23: Indiana Ave                 316140    2.2542%
+ 24: Illinois Ave                372394    2.6553%
+ 25: B & O Railroad              371582    2.6496%
+ 26: Atlantic Ave                316811    2.2590%
+ 27: Ventnor Ave                 311478    2.2210%
+ 28: Water Works                 344705    2.4579%
+ 29: Marvin Gardens              299523    2.1357%
+ 30: Go To Jail                  305239    2.1765%
+ 31: Pacific Ave                 308250    2.1980%
+ 32: North Carolina Ave          302166    2.1546%
+ 33: Community Chest             571430    4.0746%
+ 34: Pennsylvania Ave            286699    2.0443%
+ 35: Short Line                  318668    2.2723%
+ 36: Chance                      429396    3.0618%
+ 37: Park Place                  249650    1.7801%
+ 38: Luxury Tax                  248991    1.7754%
+ 39: Boardwalk                   321494    2.2924%
+
+     Name                         Total    Percent
+--------------------------------------------------
+ 10: Jail                        966915    6.8946%
+ 17: Community Chest             713396    5.0869%
+ 33: Community Chest             571430    4.0746%
+  2: Community Chest             494934    3.5291%
+ 22: Chance                      467845    3.3360%
+ 36: Chance                      429396    3.0618%
+  7: Chance                      382923    2.7304%
+ 24: Illinois Ave                372394    2.6553%
+ 25: B & O Railroad              371582    2.6496%
+ 18: Tennessee Ave               358995    2.5598%
+ 19: New York Ave                351254    2.5046%
+ 28: Water Works                 344705    2.4579%
+ 16: St. James Place             344364    2.4555%
+ 20: Free Parking                342949    2.4454%
+ 21: Kentucky Ave                335042    2.3890%
+ 39: Boardwalk                   321494    2.2924%
+ 15: Pennsylvania Railroad       318788    2.2731%
+ 35: Short Line                  318668    2.2723%
+ 26: Atlantic Ave                316811    2.2590%
+ 23: Indiana Ave                 316140    2.2542%
+  5: Reading Railroad            315719    2.2512%
+ 27: Ventnor Ave                 311478    2.2210%
+ 31: Pacific Ave                 308250    2.1980%
+ 11: St. Charles Pl              305651    2.1794%
+ 30: Go To Jail                  305239    2.1765%
+ 32: North Carolina Ave          302166    2.1546%
+ 29: Marvin Gardens              299523    2.1357%
+ 14: Virginia Ave                295947    2.1102%
+ 34: Pennsylvania Ave            286699    2.0443%
+ 13: States Ave                  279314    1.9916%
+ 12: Electric Company            265864    1.8957%
+  8: Vermont Ave                 265502    1.8932%
+  6: Oriental Ave                265157    1.8907%
+  9: Connecticut Ave             260764    1.8594%
+  3: Baltic Avenue               258991    1.8467%
+  4: Income Tax                  258682    1.8445%
+  1: Mediterranean Ave           251014    1.7899%
+  0: Go                          249670    1.7803%
+ 37: Park Place                  249650    1.7801%
+ 38: Luxury Tax                  248991    1.7754%
